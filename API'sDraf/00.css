@@ -1,0 +1,15 @@
+#form{
+    
+    padding: 30px;
+    text-align: center;
+}
+#listOfTask{
+    
+    text-align: center;
+}
+.li{
+    padding: 8px;
+}
+#text{
+    width: 20%;
+}
